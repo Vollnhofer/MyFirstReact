@@ -1,22 +1,25 @@
 {
   "files": {
     "main.css": "/MyFirstReact/static/css/main.55d72bbf.chunk.css",
-    "main.js": "/MyFirstReact/static/js/main.5ffd83c4.chunk.js",
-    "main.js.map": "/MyFirstReact/static/js/main.5ffd83c4.chunk.js.map",
+    "main.js": "/MyFirstReact/static/js/main.ba01446a.chunk.js",
+    "main.js.map": "/MyFirstReact/static/js/main.ba01446a.chunk.js.map",
     "runtime-main.js": "/MyFirstReact/static/js/runtime-main.1b96a0ec.js",
     "runtime-main.js.map": "/MyFirstReact/static/js/runtime-main.1b96a0ec.js.map",
-    "static/js/2.2609d084.chunk.js": "/MyFirstReact/static/js/2.2609d084.chunk.js",
-    "static/js/2.2609d084.chunk.js.map": "/MyFirstReact/static/js/2.2609d084.chunk.js.map",
+    "static/css/2.17e5ed98.chunk.css": "/MyFirstReact/static/css/2.17e5ed98.chunk.css",
+    "static/js/2.b0836811.chunk.js": "/MyFirstReact/static/js/2.b0836811.chunk.js",
+    "static/js/2.b0836811.chunk.js.map": "/MyFirstReact/static/js/2.b0836811.chunk.js.map",
     "index.html": "/MyFirstReact/index.html",
-    "precache-manifest.d315f9a81dcf20fb4626fee407e0aefc.js": "/MyFirstReact/precache-manifest.d315f9a81dcf20fb4626fee407e0aefc.js",
+    "precache-manifest.0dba79b6c40c8e4dcac2489e70838d84.js": "/MyFirstReact/precache-manifest.0dba79b6c40c8e4dcac2489e70838d84.js",
     "service-worker.js": "/MyFirstReact/service-worker.js",
+    "static/css/2.17e5ed98.chunk.css.map": "/MyFirstReact/static/css/2.17e5ed98.chunk.css.map",
     "static/css/main.55d72bbf.chunk.css.map": "/MyFirstReact/static/css/main.55d72bbf.chunk.css.map",
-    "static/js/2.2609d084.chunk.js.LICENSE": "/MyFirstReact/static/js/2.2609d084.chunk.js.LICENSE"
+    "static/js/2.b0836811.chunk.js.LICENSE": "/MyFirstReact/static/js/2.b0836811.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.1b96a0ec.js",
-    "static/js/2.2609d084.chunk.js",
+    "static/css/2.17e5ed98.chunk.css",
+    "static/js/2.b0836811.chunk.js",
     "static/css/main.55d72bbf.chunk.css",
-    "static/js/main.5ffd83c4.chunk.js"
+    "static/js/main.ba01446a.chunk.js"
   ]
 }
